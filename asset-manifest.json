@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Stripe-Submenu/static/css/main.d20773c1.chunk.css",
+    "main.js": "/Stripe-Submenu/static/js/main.4c4f759c.chunk.js",
+    "main.js.map": "/Stripe-Submenu/static/js/main.4c4f759c.chunk.js.map",
+    "runtime-main.js": "/Stripe-Submenu/static/js/runtime-main.12cb191a.js",
+    "runtime-main.js.map": "/Stripe-Submenu/static/js/runtime-main.12cb191a.js.map",
+    "static/js/2.ef68121c.chunk.js": "/Stripe-Submenu/static/js/2.ef68121c.chunk.js",
+    "static/js/2.ef68121c.chunk.js.map": "/Stripe-Submenu/static/js/2.ef68121c.chunk.js.map",
+    "index.html": "/Stripe-Submenu/index.html",
+    "static/css/main.d20773c1.chunk.css.map": "/Stripe-Submenu/static/css/main.d20773c1.chunk.css.map",
+    "static/js/2.ef68121c.chunk.js.LICENSE.txt": "/Stripe-Submenu/static/js/2.ef68121c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Stripe-Submenu/static/media/hero.acf1e00e.svg",
+    "static/media/logo.6ad422bb.svg": "/Stripe-Submenu/static/media/logo.6ad422bb.svg",
+    "static/media/phone.94a7a4fe.svg": "/Stripe-Submenu/static/media/phone.94a7a4fe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12cb191a.js",
+    "static/js/2.ef68121c.chunk.js",
+    "static/css/main.d20773c1.chunk.css",
+    "static/js/main.4c4f759c.chunk.js"
+  ]
+}
